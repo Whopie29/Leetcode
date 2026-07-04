@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Whopie29/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/Whopie29/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Whopie29/Leetcode/tree/master/0044-wildcard-matching) |
 ## Dynamic Programming
