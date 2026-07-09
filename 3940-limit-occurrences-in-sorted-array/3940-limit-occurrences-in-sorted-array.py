@@ -1,6 +1,6 @@
 class Solution:
-    def limitOccurrences(self, nums: list[int], k: int) -> list[int]:
-        d={}
+    def limitOccurrences(self, arr: list[int], k: int) -> list[int]:
+        ''' d={}
         for i in nums:
             if i in d:
                 d[i]+=1
@@ -14,5 +14,20 @@ class Solution:
 
             res+=[p]*v
            
-        return res        
+        return res    '''    
         
+        res = []
+        cnt = 1
+
+        res.append(arr[0])
+
+        for i in range(1, len(arr)):
+            if arr[i] == arr[i-1]:
+                cnt += 1
+            else:
+                cnt = 1
+
+            if cnt <= k:
+                res.append(arr[i])
+
+        return res
