@@ -14,7 +14,5 @@ class Solution:
 
             res+=[p]*v
            
-            
-            print(res) 
         return res        
         
