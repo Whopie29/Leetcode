@@ -57,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3925-concatenate-array-with-reverse](https://github.com/Whopie29/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
+## Math
+|  |
+| ------- |
+| [3908-valid-digit-number](https://github.com/Whopie29/Leetcode/tree/master/3908-valid-digit-number) |
 <!---LeetCode Topics End-->
