@@ -8,12 +8,9 @@ class Solution:
             for j in str(i):
                 maxi=max(maxi,int(j))
                 mini=min(mini,int(j))
-            print(maxi,mini)
-
-
             diff=maxi-mini
             l.append(diff)
-        print(l)
+        
         max_diff=max(l)
 
         sumi=0
