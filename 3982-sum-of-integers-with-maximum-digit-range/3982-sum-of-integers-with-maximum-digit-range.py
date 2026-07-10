@@ -3,16 +3,11 @@ class Solution:
         digit_range=[]
         l=[]
         for i in nums:
-            maxi=0
-            mini=10000
-            for j in str(i):
-                maxi=max(maxi,int(j))
-                mini=min(mini,int(j))
-            diff=maxi-mini
-            l.append(diff)
-        
-        max_diff=max(l)
+            maxi=int(max(str(i)))
+            mini=int(min(str(i)))
+            l.append(maxi-mini)
 
+        max_diff=max(l)
         sumi=0
         for i in range(len(l)):
             if l[i]==max_diff:
