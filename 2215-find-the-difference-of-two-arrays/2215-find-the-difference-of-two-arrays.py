@@ -11,7 +11,7 @@ class Solution:
 
             else:
                 num2.remove(i)
-        print(l)
+        
         res.append(l)
         res.append(num2)
         return res
