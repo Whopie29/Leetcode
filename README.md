@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2235-add-two-integers](https://github.com/Whopie29/Leetcode/tree/master/2235-add-two-integers) |
 | [3908-valid-digit-number](https://github.com/Whopie29/Leetcode/tree/master/3908-valid-digit-number) |
 | [3945-digit-frequency-score](https://github.com/Whopie29/Leetcode/tree/master/3945-digit-frequency-score) |
 <!---LeetCode Topics End-->
