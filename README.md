@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Whopie29/Leetcode/tree/master/0001-two-sum) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Whopie29/Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Whopie29/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Whopie29/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/Whopie29/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Whopie29/Leetcode/tree/master/0044-wildcard-matching) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Whopie29/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1446-consecutive-characters](https://github.com/Whopie29/Leetcode/tree/master/1446-consecutive-characters) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Whopie29/Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Whopie29/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/Whopie29/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Whopie29/Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Whopie29/Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Whopie29/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/Whopie29/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Bit Manipulation
