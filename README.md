@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Whopie29/Leetcode/tree/master/0027-remove-element) |
 | [1331-rank-transform-of-an-array](https://github.com/Whopie29/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Whopie29/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Whopie29/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3925-concatenate-array-with-reverse](https://github.com/Whopie29/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Whopie29/Leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Whopie29/Leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/Whopie29/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Whopie29/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/Whopie29/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Whopie29/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3945-digit-frequency-score](https://github.com/Whopie29/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Binary Search
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Whopie29/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Whopie29/Leetcode/tree/master/0044-wildcard-matching) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Whopie29/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Greedy
 |  |
 | ------- |
@@ -96,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/Whopie29/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Whopie29/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
