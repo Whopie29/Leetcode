@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0401-binary-watch](https://github.com/Whopie29/Leetcode/tree/master/0401-binary-watch) |
 | [2351-first-letter-to-appear-twice](https://github.com/Whopie29/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Stack
 |  |
@@ -129,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Whopie29/Leetcode/tree/master/1260-shift-2d-grid) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/Whopie29/Leetcode/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
