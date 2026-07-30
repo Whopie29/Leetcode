@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Whopie29/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/Whopie29/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Whopie29/Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Whopie29/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Whopie29/Leetcode/tree/master/0044-wildcard-matching) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Whopie29/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Simulation
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1360-number-of-days-between-two-dates](https://github.com/Whopie29/Leetcode/tree/master/1360-number-of-days-between-two-dates) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Whopie29/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Whopie29/Leetcode/tree/master/2235-add-two-integers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Whopie29/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Whopie29/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Whopie29/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Whopie29/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
