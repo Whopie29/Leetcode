@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Whopie29/Leetcode/tree/master/0027-remove-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Whopie29/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Whopie29/Leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Whopie29/Leetcode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Whopie29/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Whopie29/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Whopie29/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Whopie29/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Whopie29/Leetcode/tree/master/0044-wildcard-matching) |
 | [0877-stone-game](https://github.com/Whopie29/Leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Whopie29/Leetcode/tree/master/1140-stone-game-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Whopie29/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Whopie29/Leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Whopie29/Leetcode/tree/master/1140-stone-game-ii) |
 | [1360-number-of-days-between-two-dates](https://github.com/Whopie29/Leetcode/tree/master/1360-number-of-days-between-two-dates) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Whopie29/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Whopie29/Leetcode/tree/master/2235-add-two-integers) |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Whopie29/Leetcode/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/Whopie29/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
 |  |
@@ -163,4 +167,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Whopie29/Leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Whopie29/Leetcode/tree/master/1140-stone-game-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Whopie29/Leetcode/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Whopie29/Leetcode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
