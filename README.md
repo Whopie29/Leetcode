@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Whopie29/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0400-nth-digit](https://github.com/Whopie29/Leetcode/tree/master/0400-nth-digit) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0400-nth-digit](https://github.com/Whopie29/Leetcode/tree/master/0400-nth-digit) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Whopie29/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Whopie29/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Whopie29/Leetcode/tree/master/1140-stone-game-ii) |
