@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/Whopie29/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Whopie29/Leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Whopie29/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Whopie29/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/Whopie29/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Whopie29/Leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Whopie29/Leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Whopie29/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Whopie29/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Whopie29/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Whopie29/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3908-valid-digit-number](https://github.com/Whopie29/Leetcode/tree/master/3908-valid-digit-number) |
 | [3945-digit-frequency-score](https://github.com/Whopie29/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Counting
