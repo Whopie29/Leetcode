@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Whopie29/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/Whopie29/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Whopie29/Leetcode/tree/master/0044-wildcard-matching) |
+| [0067-add-binary](https://github.com/Whopie29/Leetcode/tree/master/0067-add-binary) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Whopie29/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1360-number-of-days-between-two-dates](https://github.com/Whopie29/Leetcode/tree/master/1360-number-of-days-between-two-dates) |
 | [1446-consecutive-characters](https://github.com/Whopie29/Leetcode/tree/master/1446-consecutive-characters) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Whopie29/Leetcode/tree/master/0067-add-binary) |
 | [1260-shift-2d-grid](https://github.com/Whopie29/Leetcode/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Whopie29/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Whopie29/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Whopie29/Leetcode/tree/master/0067-add-binary) |
 | [0400-nth-digit](https://github.com/Whopie29/Leetcode/tree/master/0400-nth-digit) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Whopie29/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Whopie29/Leetcode/tree/master/0877-stone-game) |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Whopie29/Leetcode/tree/master/0067-add-binary) |
 | [0401-binary-watch](https://github.com/Whopie29/Leetcode/tree/master/0401-binary-watch) |
 | [1386-cinema-seat-allocation](https://github.com/Whopie29/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2351-first-letter-to-appear-twice](https://github.com/Whopie29/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
