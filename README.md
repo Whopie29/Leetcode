@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Whopie29/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Whopie29/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Whopie29/Leetcode/tree/master/2029-stone-game-ix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Whopie29/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Whopie29/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Whopie29/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Whopie29/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Whopie29/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0400-nth-digit](https://github.com/Whopie29/Leetcode/tree/master/0400-nth-digit) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Whopie29/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Whopie29/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Whopie29/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Whopie29/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Whopie29/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Whopie29/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Whopie29/Leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Whopie29/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
